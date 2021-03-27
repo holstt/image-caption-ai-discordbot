@@ -1,5 +1,5 @@
 # ImageCaptionAi
-Captionizes any image using machine learning. This a modified version of TensorFlows tutorial code on image captioning. 
+Captionizes any image using machine learning. This a modified version of the code used in (TensorFlows tutorial)[hej](https://www.tensorflow.org/tutorials/text/image_captioning#caption) on image captioning. 
 
 ## About
 
