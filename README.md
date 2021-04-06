@@ -1,6 +1,6 @@
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
-# ImageCaptionAi
+# Image Caption AI
 Captionizes any image using machine learning. This a modified version of the code used in [TensorFlows tutorial](https://www.tensorflow.org/tutorials/text/image_captioning) on image captioning. 
 
 ## About
