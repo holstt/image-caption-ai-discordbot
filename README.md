@@ -7,11 +7,24 @@ Captionizes any image using machine learning. This a modified version of the cod
 
 The core functionality is based on TensorFlows tutorial on image caption. However, the code has been refactored and useful comments has been added in an attempt to make the code more understandable and to separate responsibilities. 
 
+Furtermore, it provides an RESTful API to query a caption based on a given image. 
+
 Features include: 
 - Pretrained weights
 - Restful interface for requesting a caption on an image
 - Easy Google Colab integration for further training
 - Easy configuration 
 - Reporting and metrics
+
+## Getting started
+
+
+
+## Usage 
+
+The application is very accurate and captionizes most images perfectly. 
+
+![prediction_example](docs/caption_prediction_example.png)
+
 
 
